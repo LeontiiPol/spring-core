@@ -1,0 +1,5 @@
+server:
+  port: 8080
+
+profile:
+  var: "Hello from main"
